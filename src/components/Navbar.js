@@ -7,9 +7,9 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="left-content">
-        <p> We are Here to Serve you 24/7 </p>
+        <p> We are Ready to Serve you 24/7 </p>
       </div>
-
+      
       <div className="right-content">
         <p> Login as: <a href="/">Individual</a> | <a href="/about">Employee</a> | <a href="/services">Company</a> | <a href="/contact">TPA</a></p>
         <div className="chat">
