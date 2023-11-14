@@ -4,7 +4,8 @@ import '../styles/Home.css';
 
 const Home = () => {
     return (
-        <h1>My Home Page</h1>
+        <h1> All Kiota Information will go here
+        </h1>
     );
 }
 
